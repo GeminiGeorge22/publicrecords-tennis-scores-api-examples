@@ -2,6 +2,10 @@
 
 # Tennis Scores API — examples
 
+**Try it, tell us, and star it if it helped.** Run any Public Records Actor on your own Apify account, then [leave feedback](https://github.com/GeminiGeorge22/publicrecords-mcp/blob/main/BETA.md). A star is welcome if this repo saved you time. Stars are optional and are never rewarded.
+
+See also [publicrecords-mcp](https://github.com/GeminiGeorge22/publicrecords-mcp) (MCP servers) and [publicrecords-skills](https://github.com/GeminiGeorge22/publicrecords-skills) (Agent Skills).
+
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-tennis-scores-api-examples/blob/main/notebooks/quickstart.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-tennis-scores-api-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
 
@@ -13,6 +17,8 @@ The Actor runs on **your** Apify account (API token). Usage is billed to you on 
 - [Apify Store page](https://apify.com/publicrecords/tennis-scores-api)
 - [n8n / Make / Zapier / Pipedream recipes](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/templates)
 - [Example repos index](https://github.com/GeminiGeorge22/publicrecords-automation-recipes#example-repos-index)
+- [MCP servers](https://github.com/GeminiGeorge22/publicrecords-mcp) (this Actor has no hosted MCP endpoint yet)
+- [Agent Skills](https://github.com/GeminiGeorge22/publicrecords-skills)
 
 ## Run a sync job
 
